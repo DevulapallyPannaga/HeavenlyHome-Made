@@ -1,0 +1,88 @@
+body {
+  background-image:url('img4.jpg'); 
+  background-repeat: no-repeat; 
+  background-size: 100%;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  .signup-box {
+    width: 450px;
+    height: 800px;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.378);
+    border-radius: 3px;
+    background-image: url('img5.jpg');
+    background-repeat: no-repeat; 
+    background-size:cover;
+  }
+  
+  h1 {
+    text-align: center;
+    padding-top: 15px;
+  }
+  form {
+    width: 300px;
+    margin-left: 20px;
+    
+  }
+  
+  form label {
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  form input {
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 6px;
+    outline: none;
+  }
+  input[type="button"] {
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: #49c1a2;
+    color: white;
+    font-size: 18px;
+  }
+  input[type="text"] {
+    border-color: black;
+    background-image: url('img5.jpg');
+    background-repeat: no-repeat; 
+    background-size:cover;
+    font-size: 18px;
+  }
+  input[type="email"] {
+    border-color: black;
+    background-image: url('img5.jpg');
+    background-repeat: no-repeat; 
+    background-size:cover;
+    font-size: 18px;
+  }
+  input[type="password"] {
+    border-color: black;
+    background-image: url('img5.jpg');
+    background-repeat: no-repeat; 
+    background-size:cover;
+    font-size: 18px;
+  }
+  p {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+  }
+  .para-1 {
+    text-align: center;
+    color: rgb(30, 102, 161);
+    font-size: 15px;
+    margin-top: -50px;
+  }
+  .para-1 a {
+    color: #49c1a2;
+  }
+  
+  
